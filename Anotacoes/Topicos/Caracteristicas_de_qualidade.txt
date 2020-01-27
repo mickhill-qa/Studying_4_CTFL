@@ -1,0 +1,34 @@
+Características de qualidade
+
+	Funcional (Negocio)
+		- Integridade	= Esta completo
+		- Correcao		= Esta precisa, ezata, correta
+		- Adequacao		= Cumpri o seu proposito
+
+	Não Funcional (Tecnico)
+		- usabilidade
+		- eficiência de desempenho
+		- segurança
+		- confiabilidade
+		- compatibilidade
+
+	Efeitos das alterações
+		- confirmação da correção dos defeitos (teste de confirmação)
+		- alterações não intencionais (teste de regressão).
+
+	Estrutura ou Arquitetura do componente ou sistema está correta, completa e especificada.
+
+
+
+==============================================================================================================
+ISO 25010 - Caracteristicas e Sub-caracteristicas de qualidade de software
+
+	(F)uncional
+	(U)sabilidade
+	(C)onfiabilidade
+	(E)ficiência		= eficiência de desempenho
+	(M)anutenibilidade 	- Testabilidade; - Estabilidade;
+	(P)ortabilidade 	= compatibilidade
+	(S)egurança
+
+OBS.: Alguns tipos de testes existem em mais de um nivel de teste.

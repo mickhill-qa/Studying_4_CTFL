@@ -1,0 +1,9 @@
+1.4.2 Atividades e tarefas de teste
+
+	• Planejamento do teste
+	• Monitoramento e controle do teste
+	• Análise do teste
+	• Modelagem do teste
+	• Implementação do teste
+	• Execução do teste
+	• Conclusão do teste 

@@ -1,0 +1,30 @@
+==========================================================
+CISA = Niveis de Teste
+
+	(C) = Componentes 	- Teste Unitario
+	(I) = Integracao 	- Duas ou mais unidades testadas juntas - Dois sistemas
+	(S) = Sistema 	 	- Software Interiro - Tudo
+	(A) = Aceite		- Teste feito com o usuario
+
+==========================================================
+LUISA = CISA
+
+	(L)embre-se que os niveis de testes sao:
+	(U)nitario / Componentes
+	(I)ntegracao
+	(S)istema
+	(A)ceitacao
+
+
+==========================================================
+• Sub-niveis de teste de COMPONENTES
+
+• Sub-niveis de teste de INTEGRAÇÃO
+
+• Sub-niveis de teste do SISTEMA
+
+• Sub-niveis de teste de ACEITE
+	• Teste de aceite do usuário (UAT)
+	• Teste de aceite operacional (OAT)
+	• Teste de aceite contratual e regulatório
+	• Teste Alfa e Beta.

@@ -1,0 +1,8 @@
+Avaliar a base de teste e os itens de teste para identificar os vários tipos de defeitos, como:
+
+	• Ambiguidades
+	• Omissões
+	• Inconsistências
+	• Imprecisões
+	• Contradições
+	• Declarações supérfluas

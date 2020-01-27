@@ -1,0 +1,24 @@
+====================================
+Tecnicas de Caixa Preta e
+Tecnicas de Caixa Branca
+====================================
+
+Caixa Preta 
+	- Baseada na Usabilidade / Comportamento (Nao tem acesso ao codigo).
+
+
+Caixa Branca
+	- Baseada no resultado.
+	- Avaliaca do codigo para validar o resultado.
+	- verifica resultados no banco de dados
+	- Confere as Engrenagens, podendo chegar até a infra.
+
+
+Carta de Teste
+	- Teste baseado em esperiencia do testador.
+	- Teste Esploratorios.
+
+
+====================================
+OBS.:
+	- Sem testes Caixa Branca: 75% dos defeitos seram encontrados.

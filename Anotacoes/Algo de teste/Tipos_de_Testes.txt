@@ -1,0 +1,7 @@
+==============================================================================================================
+Teste Estatico = Analizar documentacao tecnica e apontar discrepancia. Ex.: Caso de Uso e Email.
+Teste Dinamico = Teste que esperimenta a aplicacao. Ex.: API, WebService, Selenium, Teste Manual...
+
+
+==============================================================================================================
+Outros tipos de testes estao relacionados as: Características de qualidade

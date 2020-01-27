@@ -1,0 +1,4 @@
+QA e Testes
+==========================
+QA: Melhorar o PROCESSO
+Teste: Melhorar o PRODUTO

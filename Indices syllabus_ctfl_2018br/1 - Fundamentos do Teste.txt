@@ -1,0 +1,31 @@
+=============================================================
+1 - Fundamentos do Teste
+=============================================================
+
+Palavras-chave
+	cobertura, depuração de código, defeito, erro, falha, qualidade, garantia de qualidade, causa-raiz, análise do teste, base de teste, caso de teste, conclusão do teste, condição de teste, controle de teste, dados de teste, modelagem de teste, execução do teste, cronograma de execução do teste, implementação, monitoramento de teste, objeto de teste, objetivo de teste, oráculo de teste, planejamento de teste, procedimento de teste, suíte de teste, teste, testware, rastreabilidade, validação, verificação.
+
+
+Objetivos de aprendizagem:
+
+	1.1 O que é o teste?
+		FL-1.1.1 (K1) Identificar os objetivos típicos de teste FL-1.1.2 (K2) Diferenciar o teste da depuração
+
+	1.2 Por que o teste é necessário?
+		FL-1.2.1 (K2) Dar exemplos de porque o teste é necessário
+		FL-1.2.2 (K2) Descrever a relação entre testes e garantia de qualidade e dar exemplos de como os testes contribuem para melhorar a qualidade
+		FL-1.2.3 (K2) Distinguir erro, defeito e falha
+		FL-1.2.4 (K2) Distinguir causa-raiz de um defeito e seus efeitos
+
+	1.3 Os sete princípios de testes
+		FL-1.3.1 (K2) Explicar os sete princípios de teste
+
+	1.4 Processo de teste
+		FL-1.4.1 (K2) Explicar o impacto do contexto no processo de teste
+		FL-1.4.2 (K2) Descrever as atividades de teste e respectivas tarefas dentro do processo de teste
+		FL-1.4.3 (K2) Diferenciar os produtos de trabalho que suportam o processo de teste
+		FL-1.4.4 (K2) Explicar o valor de manter a rastreabilidade entre a base de teste e os produtos de trabalho de teste
+
+	1.5 A psicologia do teste
+		FL-1.5.1 (K1) Identificar os fatores psicológicos que influenciam o sucesso do teste
+		FL-1.5.2 (K2) Explicar a diferença entre a mentalidade necessária para as atividades de teste e a mentalidade necessária para atividades de desenvolvimento

@@ -1,0 +1,3 @@
+Erro	= Acao Humana.
+Defeito = Sinonimo de Bug, Causa da falha.
+Falha	= Acao inesperada da aplicacao, ou tambem Bug.

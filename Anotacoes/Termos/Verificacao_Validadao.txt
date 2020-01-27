@@ -1,0 +1,8 @@
+============================
+Verificacao e Validacao
+============================
+
+Verificacao	= Fazer Tecnicamente da melhor forma
+Validacao	= Fazer a coisa certa
+
+

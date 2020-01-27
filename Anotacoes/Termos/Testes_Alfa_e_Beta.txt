@@ -1,0 +1,11 @@
+==========================================
+Testes alfa e beta / α, β
+==========================================
+
+Teste Alfa
+	- Software do Fornecedor
+	- Hardware do Fornecedor
+
+Teste Beta
+	- Software do Fornecedor
+	- Hardware do Cliente

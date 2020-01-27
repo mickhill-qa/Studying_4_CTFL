@@ -1,0 +1,24 @@
+=================================================================
+2 - Teste durante o ciclo de vida de desenvolvimento de software
+=================================================================
+
+Palavras-chave
+	testes de aceite, teste alfa, teste beta, COTS, teste de integração de componentes, teste de componentes, teste de confirmação, teste de aceite contratual, testes funcionais, análise de impacto, teste de integração, teste de manutenção, testes não funcionais, testes de aceite operacional, teste de regressão, teste de aceite regulatório, modelo de desenvolvimento sequencial, teste de integração de sistemas, teste de sistema, base de teste, caso de teste, ambiente de teste, nível de teste, objeto de teste, objetivo de teste, tipo de teste, teste de aceite do usuário.
+
+Objetivos de aprendizagem
+
+	2.1 Modelos de Ciclo de Vida de Desenvolvimento de Software
+		FL-2.1.1 (K2) Explicar as relações entre as atividades de desenvolvimento de software e as atividades de teste no ciclo de vida de desenvolvimento de software.
+		FL-2.1.2 (K1) Identificar os motivos pelos quais os modelos de ciclo de vida de desenvolvimento de software devem ser adaptados ao contexto das características do projeto e do produto.
+
+	2.2 Níveis de Teste
+		FL-2.2.1 (K2) Compare os diferentes níveis de teste da perspectiva de seus objetivos, da base de teste, dos artefatos de teste, das falhas e defeitos típicos e das abordagens e responsabilidades.
+
+	2.3 Tipos de Teste
+		FL-2.3.1 (K2) Comparar os testes funcionais dos não-funcionais e de caixa-branca
+		FL-2.3.2 (K1) Reconhecer que os testes funcionais, não funcionais e de caixa-branca ocorrem em qualquer nível de teste.
+		FL-2.3.3 (K2) Comparar as finalidades do teste de confirmação e teste de regressão.
+
+	2.4 Teste de Manutenção
+		FL-2.4.1 (K2) Resumir os gatilhos para o teste de manutenção
+		FL-2.4.2 (K2) Descrever o papel da análise de impacto no teste de manutenção

@@ -1,0 +1,46 @@
+ISTQB - International Software Testing Qualifications Board
+BSTQB - Brazilian Software Testing Qualifications Board
+syllabus - Programa de Estudos
+
+
+0.3 Objetivos de aprendizagem e níveis cognitivos de conhecimento
+
+	• K1: lembrar
+	• K2: entender
+	• K3: aplicar
+
+
+O formato do exame é de múltipla escolha. Existem 40 perguntas. Para passar no exame, pelo menos 65% das perguntas (ou seja, 26 perguntas) devem ser respondidas corretamente.
+
+
+0.7 Como este syllabus está organizado
+	
+	1 - Fundamentos do Teste
+		Tempo (min): 175
+		30min / dia: 6
+	
+	2 - Teste durante o ciclo de vida de desenvolvimento de software
+		Tempo (min): 100
+		30min / dia: 4
+	
+	3 - Testes estáticos
+		Tempo (min): 135
+		30min / dia: 5
+	
+	4 - Técnicas de teste
+		Tempo (min): 330
+		30min / dia: 11
+	
+	5 - Gerenciamento de teste
+		Tempo (min): 225
+		30min / dia: 8
+	
+	6 - Ferramentas de apoio ao teste
+		Tempo (min): 40
+		30min / dia: 2
+
+	Tempo: 16h e 45min
+	Dias: 36 dias de estudo de 30min
+	Meta de termino de estudo: 24 de Dezembro
+
+
