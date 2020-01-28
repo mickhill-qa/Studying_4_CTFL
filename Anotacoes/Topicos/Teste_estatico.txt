@@ -1,0 +1,25 @@
+=================================================================
+Testes estáticos (Revisao e Inspecao)
+=================================================================
+
+	Revisao
+
+		Revisao 
+			- feita por pessoas
+		
+		Analize Estatica
+			- feita por um programa
+		
+
+	Inspecao (Revisao mais formal)
+
+
+=================================================================
+ISO 20246 - Processo de revisão.
+
+	* Informal:			mural, e-mail,portal.
+	- Tecnica:			par tecnico ou especialista
+	- Gerecial:			custo, prazo, escopo, risco
+	- Auditoria:		trilhas, logs, relatorios
+	- Acompanhmento:	conduzido pelo autor
+	- Inspecao:			moderador, treinamento, muiltiplos papeis, (facilitador, muito formal, como um julgamento)

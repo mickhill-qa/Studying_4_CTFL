@@ -3,6 +3,8 @@ Verificacao e Validacao
 ============================
 
 Verificacao	= Fazer Tecnicamente da melhor forma
+			- Atender o DEV
+			
 Validacao	= Fazer a coisa certa
-
+			- Atender o Cliente
 
