@@ -1,0 +1,25 @@
+=================================================================
+4 - Técnicas de teste
+=================================================================
+
+Palavras-chave
+	técnica de teste caixa-preta, análise de valor limite, teste baseado em lista de verificação, cobertura, cobertura de decisão, teste de tabela de decisão, adivinhação de erro, particionamento de equivalência, técnica de teste baseada em experiência, teste exploratório, teste de transição de estado, técnica de teste de caso de teste, técnica de teste caixa-branca
+
+Objetivos de Aprendizagem
+	
+	4.1 Categorias de Técnicas de Teste
+		FL-4.1.1 (K2) Explicar as características, semelhanças e diferenças entre as técnicas de teste caixa-preta, técnicas de teste caixa-branca e técnicas de teste baseadas em experiência.
+
+	4.2 Técnicas de Teste caixa-preta
+		FL-4.2.1 (K3) Aplicar o particionamento de equivalência para derivar casos de teste de requisitos especificados.
+		FL-4.2.2 (K3) Aplicar a análise do valor limite para derivar os casos de teste dos requisitos especificados. FL-4.2.3 (K3) Aplicar teste de tabela de decisão para derivar casos de teste de requisitos especificados. FL-4.2.4 (K3) Aplicar teste de transição de estado para derivar casos de teste de requisitos especificados. FL-4.2.5 (K2) Explicar como derivar casos de teste de um caso de uso.
+	
+	4.3 Técnicas de Teste caixa-branca
+		FL-4.3.1 (K2) Explicar a cobertura de instruções
+		FL-4.3.2 (K2) Explicar a cobertura de decisão
+		FL-4.3.3 (K2) Explicar o valor da instrução e a cobertura da decisão
+	
+	4.4 Técnicas de Teste Baseadas na Experiência
+		FL-4.4.1 (K2) Explicar a suposição de erro
+		FL-4.4.2 (K2) Explicar o teste exploratório
+		FL-4.4.3 (K2) Explicar os testes baseados em listas de verificação

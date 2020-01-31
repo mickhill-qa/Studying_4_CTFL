@@ -1,0 +1,9 @@
+Os sete princípios de testes.
+
+	1 - O teste mostra a presença de defeitos e não a sua ausência
+	2 - Testes exaustivos são impossíveis
+	3 - O teste inicial economiza tempo e dinheiro
+	4 - Defeitos se agrupam
+	5 - Cuidado com o paradoxo do pesticida
+	6 - O teste depende do contexto
+	7 - Ausência de erros é uma ilusão

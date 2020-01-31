@@ -1,0 +1,14 @@
+====================================================================
+Quantos e quais
+
+	Analise e modelagem - Cap.: 4 Tecnicas de Teste
+		- Esse topico responde 2 grandes perguntas:
+====================================================================
+
+		1) Quantos teste tem aí?
+		2) Quais teste tem aí?
+
+
+
+
+====================================================================

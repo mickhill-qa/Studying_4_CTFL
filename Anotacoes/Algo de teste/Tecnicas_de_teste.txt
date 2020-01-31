@@ -1,7 +1,6 @@
-====================================
-Tecnicas de Caixa Preta e
-Tecnicas de Caixa Branca
-====================================
+========================================================================
+Tecnicas de Teste
+========================================================================
 
 Caixa Preta 
 	- Baseada na Usabilidade / Comportamento (Nao tem acesso ao codigo).
@@ -19,6 +18,35 @@ Carta de Teste
 	- Teste Esploratorios.
 
 
-====================================
+========================================================================
 OBS.:
 	- Sem testes Caixa Branca: 75% dos defeitos seram encontrados.
+
+
+========================================================================
+	
+	Tecnicas de Caixa Preta
+		1 - Particionamento de Equivalencia
+			"Testar um elemento de cada grupo."
+
+		2 - Analize de valores limites
+			"Testar os elementos na fronteira da mudanca do comportamento"
+
+
+		3 - Tabela de decisão ("Tabela verdade")
+			- Condições
+			- Ações
+
+		4 - Grafico/diagrama de transição de estado
+			Objetos visuais
+				- Elipse ("Estado do objetos de teste")
+				- Setas ("Transicao - Mudanca de estado do obejto de teste")
+				- Pontinho inicial do diagrama.
+				- Elipse com circulo dento é o fim, ou inicio e fim!
+			Obejtos a analizar
+				- Maximo - Numero de setas
+				- Minimo - Ramificacoes que me levam ao fim
+
+		5 - Teste de caso de uso
+			- Caso de testes podem ser criado a partir de casos de uso
+
