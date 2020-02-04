@@ -1,0 +1,6 @@
+Complexidade Ciclomatica de McCabe
+====================================
+
+Usa a Tecnica do C:
+	O resultado da "Cobertura de Desvio ou Decisão" - (TODAS AS PONTAS) - é igual a  
+	Complexidade Ciclomatica de McCabe!

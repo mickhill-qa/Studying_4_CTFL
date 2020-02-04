@@ -1,7 +1,7 @@
-Tecnicas de Caixa Preta
+Tecnicas de Caixa Preta:
 
-	1 - Valores limites
-	2 - Particionamento de Equivalencia
-	3 - Tabela de decisão
-	4 - Transição de estado
-	5 - Caso de uso
+	1 - Valores limites;
+	2 - Particionamento de Equivalencia;
+	3 - Tabela de decisão;
+	4 - Transição de estado;
+	5 - Caso de uso;

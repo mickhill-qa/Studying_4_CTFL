@@ -32,21 +32,41 @@ OBS.:
 		2 - Analize de valores limites
 			"Testar os elementos na fronteira da mudanca do comportamento"
 
-
 		3 - Tabela de decisão ("Tabela verdade")
 			- Condições
 			- Ações
 
 		4 - Grafico/diagrama de transição de estado
 			Objetos visuais
-				- Elipse ("Estado do objetos de teste")
-				- Setas ("Transicao - Mudanca de estado do obejto de teste")
+				- Elipse 	- ("Estado do objetos de teste")
+				- Setas 	- ("Transicao - Mudanca de estado do obejto de teste")
 				- Pontinho inicial do diagrama.
 				- Elipse com circulo dento é o fim, ou inicio e fim!
 			Obejtos a analizar
+				- Minimo - Fluxo que me levam ao fim
 				- Maximo - Numero de setas
-				- Minimo - Ramificacoes que me levam ao fim
 
-		5 - Teste de caso de uso
+		5 - Teste de Caso de Uso
 			- Caso de testes podem ser criado a partir de casos de uso
 
+
+	Tecnicas de Caixa Branca
+	****1 - Cobertura de Comando, Declaração, Sentença ou Instrução
+			"Garantir que testou toda as linha do codigo no minimo uma vez"
+
+	****2 - Cobertura de Desvio ou Decisão
+			"Testa todas as saidas de uma decisao"
+
+		3 - Cobertura Multi
+			(Cobertura de decisao de Multicondicao)
+			"Testa as combinacoes que validam possibilidades de resultatdos diferentes"
+
+		4 - Cobertura de Condicao
+			"Testar todas as condicoes"
+
+	****5 - Cobertura de Caminho
+			"Cobertura de caminho e Multiplicacao dos Desvios"
+			"Testar as possibilidade de escolha/caminho que o usurario pode realizar"
+
+		6 - Cobertura de Laço (Loop) - LCSAJ
+			"A maior cobertura que existena prova"

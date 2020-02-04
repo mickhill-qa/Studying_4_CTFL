@@ -1,0 +1,19 @@
+Técnica do C - Professor José Correia - Técnicas de Caixa Branca
+
+	1 - Identificou o "IF" escreve um "C";
+	2 - "IF" que não tem "ELSE", rabisca a perna de baixo do "C";
+	3 - "FOR" conta como "IF" que não tem "ELSE".
+
+
+	OBS.: 
+		Cobertura de Comando, Declaração, Sentença ou Instrução:
+			- PONTAS LISAS;
+			- "IF" separados valor do maior.
+		
+		Cobertura de Desvio ou Decisão:
+			- TODAS AS PONTAS;
+			- "IF" separados valor do maior.
+
+		Cobertura de Caminho:
+			- "IF" juntos 		= [Desvio]
+			- "IF" separados 	= Multiplicação de [Desvio]

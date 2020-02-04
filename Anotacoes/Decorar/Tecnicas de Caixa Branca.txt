@@ -1,0 +1,8 @@
+Tecnicas de Caixa Branca:
+
+	1 - Cobertura de Comando, Declaração, Sentença ou Instrução;
+	2 - Cobertura de Desvio ou Decisão;
+	3 - Cobertura Multi;
+	4 - Cobertura de Condição;
+	5 - Cobertura de Caminho;
+	6 - Cobertura de Laço (Loop) - L.C.S.A.J.;
