@@ -21,14 +21,6 @@ Características de qualidade
 
 
 ==============================================================================================================
+Relacionado ao FUCEMPS
+
 ISO 25010 - Caracteristicas e Sub-caracteristicas de qualidade de software
-
-	(F)uncional
-	(U)sabilidade
-	(C)onfiabilidade
-	(E)ficiência		= eficiência de desempenho
-	(M)anutenibilidade 	- Testabilidade; - Estabilidade;
-	(P)ortabilidade 	= compatibilidade
-	(S)egurança
-
-OBS.: Alguns tipos de testes existem em mais de um nivel de teste.

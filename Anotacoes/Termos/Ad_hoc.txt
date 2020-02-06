@@ -1,4 +1,14 @@
-Ad hoc - técnicas de revisão
+Ad hoc - Não é uma tecnica --> Anti Padrão
+
+	- Nao tem Planejamento
+
+	- Nao tem Tempo definido
+
+	- Fazer do seu jeito...
+
+	- Faz aí...
+
+	- Testa aí...
 
 	- Revisa aí...
 

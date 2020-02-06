@@ -1,0 +1,5 @@
+Técnicas baseadas na experiência (Carta de Teste):
+
+	1 - Suposição de erro;
+	2 - Teste exploratório;
+	3 - Teste baseado em lista de verificação;

@@ -25,7 +25,7 @@ OBS.:
 
 ========================================================================
 	
-	Tecnicas de Caixa Preta
+	Técnicas de Caixa Preta
 		1 - Particionamento de Equivalencia
 			"Testar um elemento de cada grupo."
 
@@ -50,23 +50,43 @@ OBS.:
 			- Caso de testes podem ser criado a partir de casos de uso
 
 
-	Tecnicas de Caixa Branca
-	****1 - Cobertura de Comando, Declaração, Sentença ou Instrução
+	Técnicas de Caixa Branca
+	  **1 - Cobertura de Comando, Declaração, Sentença ou Instrução
 			"Garantir que testou toda as linha do codigo no minimo uma vez"
 
-	****2 - Cobertura de Desvio ou Decisão
+	  **2 - Cobertura de Desvio ou Decisão
 			"Testa todas as saidas de uma decisao"
 
 		3 - Cobertura Multi
 			(Cobertura de decisao de Multicondicao)
 			"Testa as combinacoes que validam possibilidades de resultatdos diferentes"
+			"Multi nao testa FF quando a condição é E (AND)
+			e não testa VV quando a condição é OU (OR)"
 
 		4 - Cobertura de Condicao
 			"Testar todas as condicoes"
 
-	****5 - Cobertura de Caminho
+	  **5 - Cobertura de Caminho
 			"Cobertura de caminho e Multiplicacao dos Desvios"
 			"Testar as possibilidade de escolha/caminho que o usurario pode realizar"
 
 		6 - Cobertura de Laço (Loop) - LCSAJ
 			"A maior cobertura que existena prova"
+
+
+	Técnicas baseadas na experiência (Carta de Teste)
+		1 - Suposição de erro
+			- "Julgar pelas esperiencias anteriores"
+			- "Estrapolar que um erro de uma versao anterior esteja acontecendo novamente..."
+		
+		2 - Teste exploratório
+			- Testador Experiente
+			- Planejamento Leve (Checklist, Mapa Mental, CARTA ou FICHA)
+			- Sessao de Tempo (30 min á 120 min)
+		
+		# - Teste Ad hoc (Não é uma tecnica --> Anti Padrão) Testa aí...
+			- Nao exige Testador Experiente
+			- Nao tem Planejamento
+			- Nao tem Tempo definido
+
+		3 - Teste baseado em lista de verificação
