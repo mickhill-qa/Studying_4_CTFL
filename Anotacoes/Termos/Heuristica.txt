@@ -1,0 +1,11 @@
+===============================
+Heurística
+===============================
+
+	- Associado a testes de Usabilidade;
+	- Associado a testes Exploratorio;
+	- Verificar uma espectativa;
+
+	Dicionario:
+		arte de inventar, de fazer descobertas;
+		ciência que tem por objeto a descoberta dos fatos;

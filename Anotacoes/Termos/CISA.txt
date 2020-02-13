@@ -1,0 +1,6 @@
+CISA = Niveis de Teste
+
+	(C) = Componentes
+	(I) = Integracao
+	(S) = Sistema
+	(A) = Aceite

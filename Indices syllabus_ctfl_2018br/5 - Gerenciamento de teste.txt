@@ -1,0 +1,34 @@
+=================================================================
+5 - Gerenciamento de teste
+=================================================================
+
+Palavras-chave
+	gerenciamento de configuração, gerenciamento de defeitos, critérios de entrada, critérios de saída, risco de produto, risco de projeto, risco, nível de risco, teste baseado em risco, abordagem de teste, controle de teste, estimativa de teste, gerente de teste, monitoramento de teste, plano de teste, planejamento de teste, relatório de progresso, estratégia de teste, relatório de resumo de teste, testador
+
+Objetivos de Aprendizagem
+	
+	5.1 Organização de teste
+		FL-5.1.1 (K2) Explicar os benefícios e as desvantagens de testes independentes. FL-5.1.2 (K1) Identificar as tarefas do gerente de teste e do testador.
+	
+	5.2 Planejamento e estimativa de testes
+		FL-5.2.1 (K2) Resumir o objetivo e o conteúdo de um plano de teste.
+		FL-5.2.2 (K2) Diferenciar entre várias estratégias de teste.
+		FL-5.2.3 (K2) Dar exemplos de possíveis critérios de entrada e saída.
+		FL-5.2.4 (K3) Aplicar o conhecimento de priorização e dependências técnicas e lógicas para agendar a execução do teste para um determinado conjunto de casos de teste.
+		FL-5.2.5 (K1) Identificar fatores que influenciam o esforço relacionado ao teste.
+		FL-5.2.6 (K2) Explicar a diferença entre duas técnicas de estimativa: a técnica baseada em métricas e a técnica baseada em especialistas.
+	
+	5.3 Monitoramento e controle de testes
+		FL-5.3.1 (K1) Recordar as métricas usadas nos testes
+		FL-5.3.2 (K2) Resumir os propósitos, o conteúdo e o público dos relatórios de teste
+	
+	5.4 Gerenciamento de configurações
+		FL-5.4.1 (K2) Resumir como o gerenciamento de configuração apoia os testes
+	
+	5.5 Riscos e testes
+		FL-5.5.1 (K1) Definir o nível de risco usando, a probabilidade e o impacto.
+		FL-5.5.2 (K2) Distinguir entre riscos de projeto e do produto.
+		FL-5.5.3 (K2) Descrever, usando exemplos, como a análise de risco do produto pode influenciar a eficácia e o alcance do teste
+	
+	5.6 Gerenciamento de defeitos
+		FL-5.6.1 (K3) Escrever um relatório de defeito, cobrindo os defeitos encontrados durante o teste

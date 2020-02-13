@@ -21,10 +21,20 @@ LUISA = CISA
 
 • Sub-niveis de teste de INTEGRAÇÃO
 
-• Sub-niveis de teste do SISTEMA
+• Sub-niveis de teste de SISTEMA
 
 • Sub-niveis de teste de ACEITE
 	• Teste de aceite do usuário (UAT)
 	• Teste de aceite operacional (OAT)
 	• Teste de aceite contratual e regulatório
 	• Teste Alfa e Beta.
+
+
+
+==========================================================
+Quem faz esses testes?
+
+	COMPONENTES		-> DEV
+	INTEGRAÇÃO		-> DEV & TESTER
+	SISTEMA			-> TESTER
+	ACEITE			-> Negocio & Cliente

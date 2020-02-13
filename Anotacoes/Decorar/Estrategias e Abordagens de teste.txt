@@ -1,0 +1,9 @@
+Estratégia de teste e abordagem de teste:
+
+	1 - Analítico ("Preventivas");
+	2 - Baseado em modelo ("Preventivas");
+	3 - Metódico ("Preventivas");
+	4 - Compatível com processo ("Preventivas");
+	5 - Dirigido ("Preventivas");
+	6 - Aversão à regressão ("Preventivas");
+	7 - Reativo;

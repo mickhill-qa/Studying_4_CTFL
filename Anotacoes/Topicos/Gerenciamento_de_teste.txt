@@ -1,0 +1,41 @@
+==========================================================
+Gerenciamento de teste - CAP. 5
+==========================================================
+
+	5.1
+		Testes independentes
+			- Tarefas de um Gerente de teste e do Testador
+
+	
+	5.2 
+		Planejamento de testes 
+			- Objetivo de teste
+			* Estratégias e Abordagens ("Preventivas" e "Reativas")
+			- Critérios de entrada e saída (definição de “ready” e “done”)
+			* Cronograma de execução (Sweet do testes)
+			- Fatores que influenciam o esforço do teste
+			- Técnicas de estimativa de teste (Grafico de Burndow)
+
+
+	5.3
+		Monitoramento e Controle
+			- Métricas
+			- Relatórios de Teste
+
+
+	5.4
+		Gerenciamento de configurações
+			(testware)
+				- Guarda de Artefatos Gerados
+				- Controle de versao
+				- Rastreabilidade
+
+
+	5.5
+		Riscos e testes
+			- Teste orientado ao Riscos
+			- Riscos = Probabilidade x Impacto
+
+
+	5.6
+		Gerenciamento de defeitos

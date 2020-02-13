@@ -1,0 +1,10 @@
+===============================
+Monitoramento e Controle
+===============================
+
+	Monitoramento
+		- Monitorar é Medir.
+	
+
+	Controle
+		- Controlar é tomar uma acao.

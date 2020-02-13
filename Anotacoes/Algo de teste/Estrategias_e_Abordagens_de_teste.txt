@@ -1,0 +1,42 @@
+==========================================================
+Estratégia de teste e Abordagem de teste
+==========================================================
+
+	Analítico ("Preventivas")
+		* Baseada em Riscos ou Requisitos.
+		- Um testes para cada Risco.
+		- Um testes para cada Requisito.
+
+
+	Baseado em modelo ("Preventivas")
+		- TMMI.
+		- TMAP.
+		- Seguir um modelo predefinido - Modelo de Teste.
+
+
+	Metódico ("Preventivas")
+		- Taxonomia: Classificacao.
+		- Focar o meus testes no Historico de defeitos.
+
+
+	Compatível com processo ("Preventivas")
+		- Relacionado a normar Setoriais como leis relacionadas ao negocio.
+
+
+	Dirigido ("Preventivas")
+		- Ou consultivo.
+		- Relacionado a uma pessoa de fora, um especialista
+		- Um Oracula.
+		- Um Consultor.
+		- Terceirizando a estrategia.
+
+
+	Aversão à regressão ("Preventivas")
+		- Pratica o teste de regressao.
+		- Contra o regresso da aplicacao.
+
+
+   **Reativo
+		- Baseada em testes de Experiencia.
+		- Testes Exploratorios.
+		- Heurística.
