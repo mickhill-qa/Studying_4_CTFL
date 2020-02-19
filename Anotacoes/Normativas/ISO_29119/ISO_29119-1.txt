@@ -1,0 +1,5 @@
+ISO/IEC/IEEE 29119-1 Conceitos e Definições
+
+Parte do padrão que facilita o uso das outras partes introduzindo o vocabulário no qual o padrão é construído e fornece exemplos de sua aplicação na prática.
+
+A Parte 1 fornece definições, uma descrição dos conceitos de teste de software e formas de aplicar essas definições e conceitos às outras partes do padrão

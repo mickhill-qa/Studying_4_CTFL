@@ -1,0 +1,6 @@
+Sub-divisão de tópicos da ISO 29119:
+
+	29119 - 1 Conceitos e Definições;
+	29119 - 2 Processos de Teste;
+	29119 - 3 Documentação de Teste;
+	29119 - 4 Técnicas de Teste;

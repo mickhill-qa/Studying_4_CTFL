@@ -1,0 +1,5 @@
+ISO/IEC/IEEE 29119-2 Processos de Teste
+
+A Parte 2 define um modelo de processo de teste genérico para teste de software que deve ser usado pelas organizações ao realizar testes de software.
+Inclui descrições de processos de testes que definem os processos de teste de software no nível organizacional, nível de gerenciamento de teste (projeto) e níveis de processo de teste dinâmico.
+Os processos definidos neste padrão podem ser usados em conjunto com diferentes modelos de ciclo de vida de desenvolvimento de software.

@@ -1,0 +1,27 @@
+ISO/IEC/IEEE 29119-3 Documentação de Teste
+
+A parte 3 trata da documentação de teste de software e inclui modelos e exemplos de documentação de teste que são produzidos durante o processo de teste.
+Os modelos suportam os três níveis principais do processo de teste da Parte 2, e o padrão também inclui mapeamento para outros padrões existentes
+
+
+
+Documentação do Processo de Teste Organizacional:
+	- Política de teste
+	- Estratégia de Teste Organizacional
+
+Documentação do processo de gerenciamento de teste:
+	- Plano de teste (incluindo uma estratégia de teste) - Status do teste
+	- conclusão do teste
+
+
+
+Documentação Dinâmica do Processo de Teste: - Especificação de Design de Teste
+	- Especificação de caso de teste
+	- Especificação do procedimento de teste
+	- Requisitos de dados de teste
+	- Relatório de preparação de dados de teste
+	- Requisitos do ambiente de teste
+	- Relatório de preparação do ambiente de teste - Resultados reais
+	- Resultado do teste
+	- Log de Execução de Teste
+	- Relatório de incidente de teste

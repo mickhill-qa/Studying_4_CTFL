@@ -1,0 +1,34 @@
+ISO/IEC/IEEE 29119-4 Técnicas de Teste
+
+A Parte 4 fornece definições padrão de técnicas de projeto de teste de software (também conhecidas como técnicas de projeto de caso de teste ou métodos de teste) e medidas de cobertura correspondentes que podem ser usadas durante os processos de projeto e implementação de testes definidos na Parte 2.
+As técnicas da Parte 4 destinam-se a apoiar ou ser usadas separadamente da Parte 2.
+As técnicas de design de teste da norma são categorizadas em três categorias principais: Técnicas de Desenho de Testes Baseadas em Especificação, Estrutura e Experiência.
+
+
+
+
+Caixa Preta
+Técnicas de Teste Baseadas em Comportamento:
+	• Análise de Valor Limite
+	• Particionamento de Equivalência
+	• Teste da Tabela de Decisão
+	• Teste de Transição de Estado
+	• Teste de Cenário / Casos de Uso
+
+
+
+Caixa Branca
+Técnicas de Teste Baseadas na Estrutura:
+	• Teste de Comando ou Sentença ou Declaração
+	• Teste de Decisão ou Desvio
+	• Teste de Desvio de Multi-Condição
+	• Teste de Condição
+	• Teste de Caminho
+	• Teste de LCSAJ (Linear Code Sequence And Jump) = Loop/For
+
+
+
+Técnicas de Teste Baseadas na Experiência:
+	• Suposição de Erro
+	• Teste Exploratório
+	• Teste Baseado em Lista de Verificação
