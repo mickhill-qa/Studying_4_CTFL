@@ -1,0 +1,30 @@
+====================================================================================================================================
+Ferramenta de suporte ao teste
+====================================================================================================================================
+
+	• Ferramentas que são usadas diretamente nos testes, como ferramentas de execução e ferramentas de preparação de dados de teste.
+	
+	• Ferramentas que ajudam a gerenciar os requisitos, os casos de teste, os procedimentos de teste, os scripts de teste automatizados, os resultados de testes, os dados de teste e defeitos, e para relatórios e monitoramento da execução dos testes.
+	
+	• Ferramentas que são usadas para investigação e avaliação.
+	
+	• Qualquer ferramenta que auxilie no teste (uma planilha também é uma ferramenta de teste nesse sentido).
+
+
+
+====================================================================================================================================
+
+	Ferramentas Intrusivas
+		- Consome os recursos da maquina junto ao objeto de teste.
+
+	Ferramentas NAO Intrusivas
+		- Ferramenta de analize que nao interfere no desemprenho.
+
+
+
+
+
+====================================================================================================================================
+Uso eficaz de ferramentas
+====================================================================================================================================
+

@@ -1,0 +1,15 @@
+====================================================================================================================================
+Ferramentas de teste estático
+====================================================================================================================================
+
+	Revisao e Analize Statica
+
+		• Revisões
+			- Feita por pessoas.
+			- Analize de Negocio.
+			- Defeitos Funcionais.
+
+		• Análise estática [D]
+			- Apoio de ferramentas.
+			- Analize tecnica.
+			- Defeitos NAO Funcionais.

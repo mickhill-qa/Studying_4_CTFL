@@ -1,0 +1,18 @@
+=================================================================
+6 - Ferramentas de apoio ao teste
+=================================================================
+
+Palavras-chave
+	teste baseado em dados, teste baseado em palavras-chave, ferramenta de teste de desempenho, automação de teste, ferramenta de execução de teste, ferramenta de gerenciamento de teste
+
+Objetivos de Aprendizagem
+	
+	6.1 Considerações sobre as ferramentas de teste
+		FL-6.1.1 (K2) Classificar as ferramentas de teste de acordo com a sua finalidade e as atividades de teste que elas suportam.
+		FL-6.1.2 (K1) Identificar os benefícios e riscos da automação de testes
+		FL-6.1.3 (K1) Lembrar-se de considerações especiais para a execução do teste e as ferramentas de gerenciamento.
+	
+	6.2 Uso efetivo de ferramentas
+		FL-6.2.1 (K1) Identificar os principais princípios para selecionar uma ferramenta.
+		FL-6.2.2 (K1) Relembrar os objetivos de usar projetos piloto para introduzir ferramentas
+		FL-6.2.3 (K1) Identificar os fatores de sucesso para avaliação, implementação, implantação e suporte contínuo de ferramentas de teste em uma organização.
